@@ -1,0 +1,599 @@
+O‘zi yozar suv o‘lchash postini qanday usulda o‘rnatish mumkin? 
+#Orol tipida; qirg‘oq tipida.
+Ko‘prik tipida; qirg‘oq tipida
+Trossga mahkamlangan qirg‘oq tipida
+Orol tipida; ko‘prik tipida
+
+Сув сарфлари ўлчанадиган дарёнинг эни нима деб аталади?
+Пост
+#Гидрометрик створ
+Станция
+Кўприк
+
+Tezlik deb:
+#daryo o‘zanidagi suv massasining vaqt birligi ichida bosib o‘tgan masofasiga aytiladi.
+daryoning jonli kesma maydo¬nidan suv massa¬sining vaqt bir¬ligida oqib o‘tishiga aytiladi
+daryoda oqib utayotgan suv massa¬sining eng katta qiymatining bosib o‘tgan masofasiga aytiladi
+daryoda oqib utayotgan suv mas¬sasining o‘rtacha qiymatining bosib o‘tgan masofasiga aytiladi
+
+Kuzatishlarni «0» grafik tekisligidan olib borishdan asosiy maqsad:
+#Kuzatishlarni bir xilligini hamda ularning musbat qiy¬matlarda bo‘lishini ta’minlashdir
+Kuzatishlarni musbat qiymatlarda bo‘li¬shini hamda ularni taqqoslashni ta’minlashdir
+Kuzatishlarni bir xilligini hamda ularni bir-biri bilan solishtirishni ta’minlashdir
+Kuzatishlarni davomiyligini, bir xilligini ta’minlash
+
+Gidrometriyaning nechta asosiy vazifasi mavjud
+#2
+4
+6
+3
+
+Tebranish xarakterini belgilovchi omillarga bog‘liq holda bo‘linishini aytib bering?
+#Ko‘p yillik tebranish; yillik tebranish; fasliy tebranish; sutkali tebranish
+Yillararo tebranish, ko‘p yillik tebranish; yillik tebranish; fasliy tebranish;
+Kunlik, oylik tebranish, yil ichida fasliy tebranish;
+fasliy tebranish, sutkali tebranish, oylik tebranish, yillararo tebranish.
+
+Gidrologik post -
+#Ma’lum talablarni hisobga olib, daryo yoki boshqa bir suv ob’ektining tegishli qismida o‘lchash ishlarini amalga oshirish uchun tanlangan joy.
+Daryolarni suv sathini kuzatish uchun daryoning maxsus talabalariga javob beradigan joy.
+Suv ob’ektlarining suv rejimini kuzatib borish uchun tanlangan gidrologik stansiya .
+Daryoning suv sarfi va suv sathini kuzatish uchun qurilgan maxsus ko‘prikda tanlangan joy.
+
+Gidrologik postlar nechta razryadlarga bo‘linadi?
+#3
+2
+5
+4
+
+Suv o‘lchash posti qanday mutloq balandlik reperlari bilan jihozlanadi?
+#Asosiy va nazorat
+Metalldan yasalgan
+Yog‘ochdan ishlangan
+Devoriy
+
+Suv sathining sutkalik tebranishi qaerlarda kuzatiladi?
+#Daryolarning dengiz¬ga quyilish yerlarida (shamol ta’sirida) va muzliklarga yaqin joylashgan kichik soylarda
+Kichik soylarning daryolarga va ular¬ning dengiz¬larga quyilish yerlarida (shamol ta’sirida)
+Doimiy muzlik¬lardan boshlanadi¬gan kichik soylarda hamda daryolarning okeanlarga quyilish yerlarida
+Daryolarning ko‘llarga quyilish yerlarida va doimiy qorliklarga yaqin joylashgan kichik soylarda
+
+Oqimning o‘rtacha tezligini aniqlashda eng ko‘p ishlatiladigan asbob bu-
+#gidrometrik vertushkalar
+gidrometrik trubkalar
+qalqimalar
+elektrometr yordamida
+
+Stansiya va postlar bajaradigan ish turlariga qarab qanday turlarga ajratiladi?
+#meteorologik, aerologik, gidrologik 
+meteorologik, agrometeorologik, ko‘llardagi, qor ko‘chkilari, botqoqliklardagi
+aerologik, gidrologik hamda dengiz va ko‘llar, suv omborlari
+gidrometeorologik, agrometeorologik, meteorologik, gidrologik
+
+Daryolar suv rejimining asosiy elementlarini aytib bering.
+#Suv sathi, suv sarfi, oqish tezligi, harorati, minerallashuv darajasi
+Chuqurligi, nishabligi, oqish tezligi, harorati, minerallashuv darajasi
+Suv sathi, suv sarfi, oqish tezligi, harorati, kengligi
+Suv sathi, suv sarfi, oqish tezligi, nishabligi, minerallashuvi
+
+Сув ўлчаш жойи жихозланишига қараб неча турга бўлинади?
+3 та
+1 та
+2 та
+#4 та
+
+Tebranish xarakterini belgilovchi omillarga bog‘liq holda bo‘linishini aytib bering.
+#Ko‘p yillik tebranish; yillik tebranish; fasliy tebranish; sutkali tebranish.
+Yillararo tebranish, ko‘p yillik tebranish; yillik tebranish; fasliy tebranish;
+Kunlik, oylik tebranish, yil ichida fasliy tebranish;
+fasliy tebranish, sutkali tebranish, oylik tebranish, yillararo tebranish;
+
+Suv sathining ko‘p yillik tebranishi nimaga bog‘liq?
+#Iqlimning atmos¬fera sirkulyatsiyasi ta’si¬rida ko‘p yil¬lik siklli tebranishiga.
+Atmosfera sirkulyatsiyasining tebranishiga
+Iqlimning ko‘p yillik sirkulyatsiyasiga
+Iqlimning atmos¬fera sirkulyatsiyasi ta’sirida yillik tebranishiga.
+
+Suv sathining yillik tebranishi nimalarga bog‘liq?
+#Shu yilning meteorologik sharoitiga.
+Shu yilning gidrologik sharoitiga.
+Shu yilning agrometeorologik sharoitiga.
+Shu yilning meteo¬rologik va gidro¬logik sharoitiga
+
+Suv sathining fasliy tebranishi nimalarga bog‘liq?
+#Daryo havzasi¬ning tabiiy - geografik sharoitiga.
+Daryo havzadagi qor va muzliklarning mavjudligiga
+Daryo havzasi¬ning tabiiy - geografik sharoitiga va to‘yinish manbaiga
+Daryo havzasidagi buloq, qor va muzliklarning mavjudligiga
+
+Daryo o‘zanining asosiy morfometrik elementlari:
+#Ko‘ndalang kesim maydoni, nam¬langan perimetri, gidravlik radiusi, kengligi, o‘rtacha va mak-simal chuqurligi
+Suv kesmasi maydoni, o‘rtacha chuqurligi, sa¬yozligi, uzunligi, gidravlik radi¬usi, nishabligi
+Suv kesmasi maydoni, maksi¬mal va o‘rtacha chuqurli¬gi, keng¬ligi, bo‘y¬lama va ko‘ndalang profillari
+Jonli kesma maydoni, o‘rtacha chuqurligi, keng¬ligi, bo‘ylama va ko‘ndalang profillari
+
+Turbulent harakat deganda nimani tushunasiz?
+#Suv massasidagi har bir molekula vaqt birligi ichida yo‘nalishini ham, tezligini ham o‘zgartirib turishini
+Suv massasidagi bir nechta molekulaning vaqt birligida yo‘nalishini ham, tezligini ham o‘zgartirib turishini
+Suv massasidagi harbir molekula vaqt birligi ichida yo‘nalishini ham, tezligini ham o‘zgartirmasligini
+Notekis harakatdagi suv massasining vaqt birligida o‘zgarishini
+
+Tezlikning daryo chuqurligi bo‘yicha taqsimlanishiga ta’sir etuvchi omillar:
+#Havo bilan suv yuzasi o‘rtasidagi va suv massasi bilan o‘zan tubi orasidagi ishqalanish
+Suv massasi bilan o‘zan tubidagi xarsang toshlar orasidagi ishqalanish
+Shamol bilan suv yuzasi o‘rtasidagi ishqalanish va qirg‘oqlari orasidagi ishqalanish
+Qirg‘oqlarning g‘adir-budirligi va o‘zan tubidagi xarsang toshlarga ishqalanishi
+
+Tog‘ daryolarida qaysi rejimdagi harakat kuzatiladi?
+#Turbulent
+Laminar
+Kritik
+O‘zgaruvchan
+
+Tezliklarni o‘lchash vaqtida qanday usullarni qo‘llash mumkin?
+#Nuqta va integratsion usul
+Nuqta va yig‘indi usuli
+Integratsion va grafik usul
+Nuqta va grafik usul
+
+Tezlik epyurasi nimani ifodalaydi?
+#Tezlikning chuqurlik bo‘yicha o‘zgarishini
+Tezlikning kenglik bo‘yicha o‘zgarishini
+Tezlikning nishablik bo‘yicha o‘zgarishini
+Tezlikning uzunlik bo‘yicha o‘zgarishini
+
+Daryo kengligi 10 m va undan kichik bo‘lsa, suv harorati daryoning qaysi qismida o‘lchanadi?
+# o‘rtasida 
+Chap qirg‘og‘ida 
+O‘ng qirg‘og‘ida 
+1 m chuqurlikda 
+
+Гидрометрик вертушканинг таркибий қисмлари нимадан иборат?
+#Паррак, паррак айланадиган ўқ, вертушка танаси, ҳисоблаш – контакт механизми, думи
+Вертушканинг боши, вертушка қорни думи
+Паррак, вертушка қаноти, вертушка думи
+Паррак, электирон қисми айланма винт, думи
+
+Бетонли каналларда сув сатҳини кузатганда приводкага хожат борми?
+Фақат вегетация даврида
+#Ҳожати йўқ
+Бор
+Айрим ҳолатда
+
+Қандай сув сатҳлари ойлик характерли сув сатҳлари ҳисобланади?
+Ўртача йиллик, максимал, минимал
+#Ўртача ойлик, максимал ва минимал
+Максимал ва минимал
+Кунлик сув сатҳлари ҳисобланади
+
+Лойқа оқизиқлари ва сув ости оқизиқлари сарфи қандай асбоблар ёрдамида аниқланади?
+3 метрли баллон
+1 метрли баллон
+Ғалвир, батометр тур
+#Батометр бутилка, вакуумли батометр, батометр тўр ва бошқалар
+
+Вертикалдаги ўртача тезликни аниқлаш учун агар тезлик вертикалда 5 та нуқтада ўлчанган бўлса қайси эмпирик ифодалар таклиф этилади?
+#Vўр = 0,1 (Vюза + 3 V0,2h + 3 V0,6h + 2 V0,8 h + Vтуби)
+V ўр = 0,25 (V0,2h +2 V0,6h + V0,8h)
+V ўр = 0,5 (V0,2h + V0,8h)
+V ўр = V0,6h
+
+Вертикалдаги ўртача тезликни аниқлаш учун агар тезлик вертикалда 1 та нуқтада ўлчанган бўлса қайси эмпирик ифодалар таклиф этилади?
+V ўр = 0,25 (V0,2h +2 V0,6h + V0,8h)
+V ўр = 0,5 (V0,2h + V0,8h)
+#V ўр = V0,6h
+Vўр = 0,1 (Vюза + 3 V0,2h + 3 V0,6h + 2 V0,8 h + Vтуби)
+
+Гидрометрия сўзининг маъноси ва вазифалари нималардан иборат?
+#Гидрометрия-сувни ўлчаш. Сув объектининг режимини хар турли элементлари миқдорини аниқлаш учун усуллар ва асбобларни яратиш.
+Гидрометрия-сув тўғрисидаги фан. Сув сатҳи ва сарфини ўлчаш
+Гидрометрия ер ости сувларини ўлчаш
+Сувни ҳисобга олиш ва уни истеъмолчиларга тақсимлаш.
+
+Гидрометриянинг турлари?
+Хақиқий ва сохта гидрометрия
+Гидросфера гидрометрияси, сув гидрометрияси
+#Атмосфера гидрометрияси, дарё гидрометрияси, ер ости сувлари гидрометрияси, эксплуатацион гидрометрия
+Дарё гидрометрияси, экслуатацион гидрометрия
+
+Дарёнинг каттик оқимига нималар киради?
+Катта ва кичик заррачалар
+Муаллақ океанлар, туб оқизиқлари
+Муаллақ, сув юзи оқизиқлари, эриган моддалар
+#Муаллақ ўзан туби оқизиқлари, эриган моддалар оқими
+
+Изобат нима?
+Энг ката сувнинг чуқурлиги
+Бир хил қийматдаги тезликларни бирлаштирувчи чизиқ
+Энг кичик сувнинг чуқурлиги
+#Бир хил қийматдаги чуқурлик нуқталарини бирлаштирувчи чизиқ
+
+Изотаха нима?
+Бир хил қийматдаги чуқурлик нуқталарини бирлаштирувчи чизиқ
+Энг ката сувнинг оқиш тезлиги
+#Бир хил қийматдаги тезлик нуқталарини бирлаштирувчи чизиқ
+Энг кичик сувнинг оқиш тезлиги
+
+Suv sarfini bilvosita oʼlchashga qanday usul kiradi?
+Аnalitik 
+Grafik 
+Hajmiy 
+# Tezlik- maydon
+
+Сув объектларининг гидрологик  тартиби(режими) элементларига нималар киради?
+#Сув сатҳи, сув сарфи, сувнинг тезлиги, сув юзаси нишаблиги
+Гидрометрик створ, штанга,механик лот
+Гидросфера,атмосфера,биосфера
+Ер ости сувлари, тоғ жинслари,сув ўтказувчи қатламлар
+
+Сув сатҳи  қандай тартиб элементи ҳисобланади?
+Геологик тартиб
+#Гидрологик тартиб
+Энергетик тартиб
+Биологик тартиб
+
+Сув сарфи  қандай тартиб элементи ҳисобланади? ?
+Геологик тартиб
+Энергетик тартиб
+Биологик тартиб
+#Гидрологик тартиб
+
+Сувнинг оқиш тезлиги  қандай тартиб элементи ҳисобланади?
+Геологик тартиб
+Энергетик тартиб
+#Гидрологик тартиб
+Биологик тартиб
+
+Стационар гидрологик тадқиқот усулида сув объектларининг гидрологик тартиби элементлари қандай кузатилади?
+Бир йил давомида
+#Кўп йиллар давомида,мунтазам равишда
+Вақтинча
+Бир неча ой давомида
+
+Сув сатхининг ўлчов бирлиги нима?
+Мм
+М
+#см
+Км
+
+Сув сатхи кескин ўзгарувчан бўлса қандай асбоблар ўрнатилади?
+Рейкалар
+#Ўзи ёзгич асбоблар
+Штангалар
+Қозиқлар
+
+“Валдай” асбоби нимани ўлчайди?
+Сув сарфини
+Сувнинг лойқалигини
+Сувнинг тезлигини
+#Сув сатхини
+
+Hajmiy usul suv sarfi qancha miqdordan oshmaganda qoʼllaniladi?
+6-12 l/s 
+#5-10 l/s
+15-20 l/s 
+25-30 l/s
+
+Suv sarfi deb nimaga aytiladi.
+Daryoning koʼndalang kesimi orqali 1soatda oqib oʼtgan suv miqdori 
+Daryoning chuqurligi boʼyicha 1sek.da oqib oʼtgan suv xajmiga aytiladi
+Daryoning kengligi boʼyicha 1sek.da oqib oʼtgan suv xajmiga aytiladi 
+# Oqimning koʼndalang kesimi orqali vaqt birligi ichida oqib oʼtgan suv miqdoriga aytiladi
+
+«Gidrometriya» so‘zining ma’nosi -
+#Grek so‘zidan olingan bo‘lib, «gidro» - suv, «metriya»- o‘lchash, ya’ni suvni o‘lchash ma’nosini bildiradi
+Lotincha so‘z bo‘lib, «gidro»-suv, «metriya»-aniqlash, ya’ni suvni aniqlash ma’nosini bildiradi
+Inglizcha so‘z bo‘lib, «gidro» - suv, «metriya»- aniqlash, ya’ni suvni aniqlash ma’nosini bildiradi
+Fransuzcha so‘z bo‘lib, «gidro» - suv, «metriya»- aniqlash, ya’ni suvni aniqlash ma’nosini bildiradi
+
+Gidrologik postlarda suv sathini kuzatish vaqtlarining qaysi biri asosiy hisoblanadi?
+#8, 20
+12, 18, 24
+8, 12, 16, 20, 24
+6, 18
+
+Chuqurlik o‘lchashda qo‘laniladigan asboblardan qaysilarini bilasiz?
+#Namyotka, shtanga, reyka, lotlar;
+Nivelir, shtanga, reyka, lotlar;
+Qo‘l loti, mexanik lot, reyka, menzula;
+Teodolit, namyotka, shtanga, reyka
+
+«0» grafik tekisligi deganda nimani tushunasiz?
+#Suv sathini o‘lchash uchun shartli ravishda qabul qilingan mavhum tekislik
+Suv sarfini o‘lchash uchun shartli ravishda qabul qilingan aniq tekislik
+Suv tezligini o‘lchash uchun shartli ravishda qabul qilingan tekislik
+Loyqa oqiziqlarni o‘lchash uchun shartli ravishda qabul qilingan tekislik.
+
+«0» grafik tekisligi qanday tanlanadi?
+#Daryoning tarixiy minimal suv sathidan kamida 0,5- 1 m pastda tanlab olinadi
+Daryoning tarixiy minimal suv sathidan kamida 0,5- 1,5 m pastda tanlab olinadi
+Daryoning tarixiy minimal suv sathidan kamida 0,8- 1 m pastda tanlab olinadi
+Daryoning tarixiy minimal suv sathi¬dan kam ida 0,5- 0,8 m pastda tanlab olinadi
+
+Daryo kengligi –
+#Chap qirg‘oq bilan o‘ng qirg‘oq orasidagi oqim yo‘nalishiga perpendi¬kulyar bo‘lgan masofa
+Chap qirg‘oq bilan o‘ng qirg‘oq ora¬sidagi oqim yo‘na¬lishiga paralel bo‘lgan masofa
+Daryo qayirlari orasidagi masofa
+Daryo o‘zanining chap qirg‘og‘i bilan o‘ng qir¬g‘og‘i orasidagi paralel masofa
+
+Daryoning o‘rtacha chuqurlik deb:
+#Jonli kesma maydo¬nining daryo kengligiga bo‘lgan nisbatiga aytiladi
+Daryoda eng katta suv sathi kuzatilgan vaqtga aytiladi
+Chuqurlikning suv sathiga bo‘lgan nisbatiga aytiladi
+Jonli kesma maydonining chuqurlikka bo‘lgan nisbatiga aytiladi
+
+O‘zanning ko‘ndalang qirqimi deb:
+#Oqim yo‘nalishiga perpendikulyar bo‘lgan qirqimga aytiladi
+Oqim yo‘nalishiga mos bo‘lgan qirqimga aytiladi
+Oqim yo‘nalishiga burchak ostida joylashgan qirqimga aytiladi
+Oqim yo‘nalishiga qarama-qarshi bo‘lgan qirqimga aytiladi
+
+Daryoning jonli kesma maydoni deb:
+#oqim yo‘nalishiga perpendikulyar va suv yuzasi chiziqlari bilan chegaralangan maydonga aytiladi.
+oqim yo‘nalishiga paralel va suv yuzasi maydoni chiziqlari bilan chegaralangan maydonga aytiladi.
+oqim yo‘nalishiga perpendikulyar va jonli kesma maydoni bilan chegaralangan chiziqqa aytiladi.
+oqim yo‘nalishiga paralel va suv yuzasi chiziqlari bilan chegaralangan maydonga aytiladi.
+
+"0"-kuzatish tekisligi qanday tekislik?
+#haqiqiy tekislik bo‘lib, u qoziqli postlarda qoziqning yuzasidan, reykali postlarda esa reykaning "0" - belgisidan o‘tadi.
+mavhum tekislik bo‘lib, u qoziqli postlarda qoziqning tagiidan, reykali postlarda esa reykaning "1" - belgisidan o‘tadi.
+haqiqiy tekislik bo‘lib, u ko‘prikli postlarda ko‘prikning yuzasidan, reykali postlarda esa reykaning yuzasidan o‘tadi.
+haqiqiy tekislik bo‘lib, u trostli postlarda trosning uchidan, reykali postlarda esa reykaning tagidan o‘tadi.
+
+"0"-kuzatish tekisligi qanday topiladi?
+#Reperga nisbatan nivelirlash yordamida
+Reykaga nisbatan nivelirlash yordamida
+Suv sathiga nisbatan nivelirlash yordamida
+Suv sarfiga nisbatan nivelirlash yordamida
+
+Suv o‘lchash asboblari asosan reykali, qoziqli yoki aralash bo‘lsa, u qanday post hisoblanadi?
+# oddiy suv o‘lchash posti 
+uzoq masofaga uzatib beruvchi 
+uzatma suv o‘lchash posti 
+o‘zi yozar suv o‘lchash posti 
+
+Suv sathining takrorlanishi va ta’minlanishi nima maqsadda o‘rganiladi
+#Daryodan samarali foydalanish va gidrotexnik inshootlarni loyihalashda
+Suv sarfidan to‘liq foydalanish va kema qatnovini yo‘lga qo‘yishda
+Suv sathidan to‘liq foydalanish va kema qatnovini yo‘lga qo‘yishda
+Davryoda suv sathining tebranishini o‘rganishda
+
+Daryoning maksimal chuqurligi qanday topiladi?
+#Maxsus emperik ifodalar yordamida topiladi
+Chuqurlik natijalari¬dan tanlab olinadi
+Tenglamalar yordamida hisoblanadi
+O‘rtacha chuqurlikni kvadratga oshiriladi
+
+Chuqurlik o‘lchash ishlarining qanday ko‘rinishlarini bilasiz?
+#Ko‘ndalang profil, bo‘ylama profil, qiya burchak ostida va aralash usullar
+Ko‘prikda turib, ko‘ndalang profil, qiya burchak ostida va aralash usullar
+Qirg‘oqda turib, bo‘ylama profil, uchburchak osti¬da va aralash usullar
+Qayiqda turib, bo‘ylama profil, uch burchak ostida va aralash usullar
+
+Exolot bilan qaerlarda chuqurlik qo‘llaniladi?
+#Dengiz, okean va qisman ko‘llarda
+Daryo, okean va qisman suv omborlarda
+Dengiz, daryo, okean va suv omborlarda;
+Dunyo okeanida va daryolarda
+
+Trostli postlar qachon ishlatiladi?
+# Daryoning qirg‘og‘i juda tik bo‘lgan hollarda.
+Daryoning qirg‘og‘i 800 burchak ostida bo‘lgan hollarda 
+Daryoning qirg‘og‘i 450 burchak ostida bo‘lgan hollarda 
+Daryoning qirg‘og‘i 700 burchak ostida bo‘lgan hollarda 
+
+Qaysi hollarda bo‘ylama profil bo‘yicha chuqurlik o‘lchanadi?
+#Oqim tezligi yuqori va chuqurlik katta bo‘lganda
+Oqim tezligi kichik va chuqurlik katta bo‘lganda 
+Daryoning sayoz uchastkalarida 
+Uzun uchastkalarda 
+
+O‘zi yozar suv o‘lchash qurilmasi qanday qismlardan tuzilgan bo‘ladi?
+# Suv sathi datchigi (qabul qiluvchi qurilma) va yozish qurilmasidan 
+Suv sarfi datchigi va yozish reykasidan 
+Suv sathi datchigi va suv o‘lchash reykasidan 
+Qabul qiluvchi qurilma va yozish lentasidan 
+
+Gidrometriyaning tadqiqot usullari
+#Statsionar, ekspeditsion va laboratoriya
+Eksperimental, statsionar va modellash
+Laboratoriya, statistika va statsionar
+Statsionar, ekspeditsion va nazariy tahlil
+
+Бетонли каналларда сув ўлчаш рейкасининг ўрни қандай сатҳда бўлиши керак?
+Сув юзаси билан бир сатҳда
+Канал қирғоғлари билан бир сатҳда
+#Канал туби билан бир сатҳда
+Канал тубидан 0,5м пастда
+
+Вертушка паррагини 1 секундда айланишлар сони нимага тенг?
+#Умумий айланишлар сони сигналларга кетган вақтга нисбати
+Умумий айланишлар сонини сигналлар сонига кўпайтмаси
+Сув сатҳини оқим чуқурлигига нисбатига тенг
+Умумий айланишлар сонини сигналлар сонига нисбати
+
+Қайси жихоз сув ўлчаш жойининг асосий ўлчов жихози ҳисобланади?
+Линейка
+#Сув ўлчаш рейкаси
+Ўзи ёзгич
+Штанга
+
+Сув оқими тезлигининг ўлчов бирлиги нима?
+М
+См
+Литр
+#м/с
+
+Сув билан оқиб келадиган эримаган заррачаларни нима деб аташ қабул қилинган?
+#Оқизиқлар
+Сув сарфи
+Экстрополяциялаш
+Молекулалар
+
+Қўл лоти ёрдамида нима ўлчанади?
+Сув сатхи
+Сув сарфи
+Лойқалик
+#Чуқурлик
+
+Механик лот ёрдамида нима ўлчанади?
+Сув сатхи
+Сув сарфи
+#Чуқурлик
+Лойқалик
+
+Пўкаклар ёрдамида нима ўлчанади?
+Хажм
+Сатх
+#Тезлик
+Чуқурлик
+
+Гр-21м асбоби ёрдамида нима ўлчанади?
+Хажм
+#Тезлик
+Сатх
+Чуқурлик
+
+Сув сатҳларини кузатиш асосан  нима мақсадда олиб борилади?
+Оқимни ўлчаш учун
+#Сув сарфини ўлчаш
+Майдон ўлчаш
+Чуқурлик ўлчаш учун
+
+Сувнинг оқиш тезлигини аниқлашдан мақсад?
+махсус гидрометрик ишларда оқим ҳажмини ҳисоблашда
+сув сатҳини кузатишда
+гидрометрик тадбирларни амалга оширишда
+#сув сарфини ҳисоблаш
+
+Тезликлар кесими билан чегараланган шакл нима деб аталади?
+Сув сатҳи кесими
+Ўртача чуқурлик тақсимоти
+Чукурлик эпюраси
+#Тезлик эпюраси
+
+Гидрометрия қайси фаннинг бўлими ҳисобланади ?
+Гидрогеология
+Геология
+Метеорология
+#Гидрология
+
+Маълум вақт оралиғида бир онли тезликларнинг ўртача миқдори нима деб аталади?
+Оний тезлик
+#Махаллий тезлик
+Минимал тезлик
+Максимал тезлик
+
+Сув сарфи деб нимага айтилади.
+Дарёнинг кўндаланг кесими орқали 1соатда оқиб ўтган сув миқдори
+#Оқимнинг кўндаланг кесими орқали вақт бирлиги ичида оқиб ўтган сув миқдорига айтилади
+Дарёнинг чуқурлиги бўйича 1сек.да оқиб ўтган сув хажмига айтилади
+Дарёнинг кенглиги бўйича 1сек.да оқиб ўтган сув хажмига айтилади
+
+Сув сарфи оқим хажмига қандай айлантирилади?
+Маълум даврдаги ўртача сув сарфи миқдори шу даврдаги секундлар сонига бўлинади
+Сув сарфи қиймати кунлар сонига кўпайтирилади
+#Маълум даврдаги ўртача сув сарфи миқдори шу даврдаги секундлар сонига кўпайтирилади
+Сув сарфи қиймати кунлар сонига бўлинади
+
+Сув сарфи хажмий усулда қандай ҳисобланади?
+Ўлчов идишидаги сув ҳажмини уни тўлдиришга кетган вақтга кўпайтирмаси
+Ўлчов идишидаги сув ҳажмини уни тўлдиришга кетган вақтга қўшилади.
+Ўлчов идиш вақтга кўпайтирилади
+#Ўлчов идишидаги сув ҳажмини уни тўлдиришга кетган вақтга нисбати
+
+Сув сарфи эгри чизиқлари нима мақсадда тузилади?
+Сувнинг ўртача тезлигини аниқлаш учун
+Сув ўтказгичнинг катта кичиклиги учун
+#Ўртача кунлик сув сарфларини аниқлаш учун
+Сув сатҳини кўзатиш учун
+
+Қандай шакл тезлик эпюраси деб аталади?
+#Тезликлар кесими билан чегараланган
+Сув хавзалари билан чегараланган
+Куруклик кесими билан чегараланган
+Гидрогеологик кесим билан чегараланган
+
+Гидрологиянинг қайси бўлими  фаннинг амалий қисми ҳисобланади?
+Гидрогеология
+Гидрологик ҳисоблашлар
+#Гидрометрия
+Гидрологик башоратлар
+
+Гидрометрик тизимларда сув сарфини ўлчовчи қурилмаларни белгиланг?
+Штангалар
+Рейкаларлар
+Батометрлар
+#Сув ўтказгичлар
+
+Гидрометриянинг вазифаси:
+Сув хавзаларининг гидрогеологик тартибини ўрганиш
+Гидрогеологик жараёнларни ўрганиш
+#Сув сатхлари,сув  ва оқизиқлар сарфлари, сувнинг кимёвий таркиби, харорати, музлаши ва бошқа холатларини билиш мақсадида сув манбаилари гидрологик тартибини мунтазам ўрганиш.
+Геологик жараёнларни ўрганиш
+
+Дарёнинг гидрологик режимининг асосий элементи?
+#Сув сарфи
+Майдони	
+Оқим тезлиги
+Оқим ҳосил қилиши
+
+Қандай қурилмалар гидрометрик постлар деб аталади?
+Ер ости сувларини ўрганиш учун курилган
+#Сув сатхини ўлчаш учун ўрнатилган
+Тупроқ шароитини ўрганиш учун курилган
+Геологик шароитини ўрганиш курилган
+
+Мавжуд тезликлар қандай тезликларга бўлинади ?
+Минимал ва бир онли
+Максимал ва бир онли
+#Бир онли ва ўртача (маҳаллий)
+Максимал ва ўртача
+
+Suv satxini oʼlchash ishlari qaerda olib boriladi?
+Santsiyada 
+#Gidrologik postda
+Meteorologik stantsiyada 
+Agrologik stantsiyada
+
+Suv satxi qaysi harf bilan belgilanadi?
+B
+#H 
+Q
+L
+
+Suyuqliklar harakatining qanday turlarini bilasiz?
+#Turbulent va laminar harakat
+Tekis harakat va laminar harakat
+Notekis, tekis harakat va turbulent harakat
+Turbulent, laminar va tekis harakat
+
+Дарёнинг узунлиги бўйича максимал чуқурликларни бирлаштирувчи чизиқ нима деб аталади?
+#Фарватор
+Изобата
+Максимал чуқурликлар чизиғи
+Ватер
+
+Suv sathini maxsus qayta ishlashning asosiy vazifalari nimalardan iborat?
+# Xarakterli suv sathlarini belgilash; suv sathining takror¬lanish va ta’minla¬nish grafigini tuzish; moslashgan suv sath¬larini aniqlash, bog‘¬lanish grafigini tuzish 
+Suv sathining takrorlanish va ta’minlanish grafigini tuzish; moslashgan suv sarflarini aniqlash, bog‘lanish grafigini tuzish.
+Xarakterli suv sarflarini belgilash; suv sarfining takrorlanish va ta’minlanish grafigini tuzish.
+Suv sarfining tak¬rorlanish va ta’¬minlanish grafigini tuzish; moslashgan Suv sarflarini aniqlash, bog‘lanish grafigini tuzish.
+
+Uzatma suv o‘lchash postlarining qanday tiplarini bilasiz?
+# Ko‘prikli, trostli postlar 
+Lyulkali, qoziqli, o‘zi yozar postlar 
+Ko‘prikli, o‘zi yozar postlar 
+Ko‘prikli, reykali, qoziqli va lyulkali postlar 
+
+Nishabli suv o‘lchash postlari nimaga mo‘ljallangan?
+# Daryoda suv yuzasi nishabligini o‘lchashga 
+Dimlanish borligini o‘lchash uchun mo‘ljal¬langan 
+Suv o‘lchash postlarini joylashishini aniqlash uchun.
+Oqim chuqurligini aniqlash uchun, gidro¬postni ko‘chirish uchun.
+
+O‘rtacha sutkali suv sathi qanday aniqlanadi
+# O‘rtacha arifmetik qiymati olinadi
+Yig‘indi qiymati olinadi
+Olingan sanoqlar ko‘paytiriladi
+Olingan sanoqlarni farqi olinadi 
